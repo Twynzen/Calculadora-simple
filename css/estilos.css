@@ -1,0 +1,39 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+.contenedor{
+  background-color: #ededed;
+  width: fit-content;
+  margin: auto;
+  margin-top: 30px;
+}
+.teclas{
+  display: flex;
+
+}
+.pantalla{
+  padding: 18px;
+}
+.numeros{
+  padding: 18px 9px 18px 18px;
+}
+.op{
+  padding: 18px 9px 18px 18px;
+}
+.numeros div{
+text-align: center;
+
+}
+.numero div{
+  border: 0px;
+  background-color: #fff;
+}
+
+button{
+  margin: 0px;
+  padding: 9px;
+  font-size: 19px;
+
+}
